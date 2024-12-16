@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://shorturl.at/wcHYo](https://shorturl.at/wcHYo)
 
-- ⚡ Fun fact **⚡ Fun Fact: I once optimized a piece of code so efficiently that it made the system run faster than I could process the output! 😅**
+- ⚡ Fun fact * I once optimized a piece of code so efficiently that it made the system run faster than I could process the output! 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
