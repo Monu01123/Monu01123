@@ -13,9 +13,6 @@
   - 🌱 I’m currently learning **Node.js, express.js** <br>
   - 💬 Ask me about **React.js, Node.js, Express.js** <br>
   - 📫 How to reach me **monumeena0112@gmail.com** <br>
-  - 📄 Know about my experiences <a href="https://www.canva.com/design/DAGOwnDkGsY/SxXRoBY796wFi_EVXQcVNQ/view?utlId=h4e15dc229e">Resume</a> <br>
-  - ⚡ Fun fact: *I once optimized a piece of code so efficiently that it made the system run faster than I could process the output! 😅* <br>
-  - 🎓 **Emerging Full-Stack Developer** | Focused on learning modern web technologies 🚀
 </p>
 
 
