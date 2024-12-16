@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 😍, I'm Monu Meena</h1>
 <h3 align="center">Passionate Full stack Developer 👨🏼‍🎓| Building Scalable Solutions | Open-Source Enthusiast | Always Learning</h3>
-<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=monu01123&label=Profile%20views&color=0e75b6&style=flat" alt="monu01123" /> </p>
 <br/>
  <img align="right" width="300" src="https://github.com/user-attachments/assets/16d2f4c7-edf8-4146-9872-be34710abc01" alt="coding-typing" width="170" height="250"> 
  <h4 width="400">
