@@ -6,7 +6,7 @@
 
 <table>
   <tr>
-    <td>
+    <td style="border: none;">
       <div align="left">
         - 🔭 I’m currently working on <a href="https://github.com/Monu01123/Minor_project">learning platform</a> <br>
         - 🌱 I’m currently learning **Node.js, express.js** <br>
@@ -16,7 +16,7 @@
         - ⚡ Fun fact: *I once optimized a piece of code so efficiently that it made the system run faster than I could process the output! 😅* <br>
         - 🎓 **Emerging Full-Stack Developer** | Focused on learning modern web technologies 🚀
       </div>
-    </td>
+    </td style="border: none;">
         <td>
       <img src="https://github.com/user-attachments/assets/04d8a966-0e36-42ac-8e70-1855777264ed" alt="coding-typing" width="300">
     </td>
