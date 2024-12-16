@@ -4,7 +4,7 @@
 <h1 align="center">Hi 😍, I'm Monu Meena</h1>
 <h3 align="center">Passionate Full stack Developer 👨🏼‍🎓| Building Scalable Solutions | Open-Source Enthusiast | Always Learning</h3>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex;flex-direction:row; align-items: center;">
   <div>
     <img src="https://github.com/user-attachments/assets/04d8a966-0e36-42ac-8e70-1855777264ed" alt="coding-typing" width="300">
   </div>
