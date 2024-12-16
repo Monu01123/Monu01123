@@ -4,21 +4,25 @@
 <h1 align="center">Hi 😍, I'm Monu Meena</h1>
 <h3 align="center">Passionate Full stack Developer 👨🏼‍🎓| Building Scalable Solutions | Open-Source Enthusiast | Always Learning</h3>
 
-![coding-typing](https://github.com/user-attachments/assets/04d8a966-0e36-42ac-8e70-1855777264ed)
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/04d8a966-0e36-42ac-8e70-1855777264ed" alt="coding-typing" width="300">
+    </td>
+    <td>
+      <div align="right">
+        - 🔭 I’m currently working on <a href="https://github.com/Monu01123/Minor_project">learning platform</a> <br>
+        - 🌱 I’m currently learning **Node.js, express.js** <br>
+        - 💬 Ask me about **React.js, Node.js, Express.js** <br>
+        - 📫 How to reach me **monumeena0112@gmail.com** <br>
+        - 📄 Know about my experiences <a href="https://www.canva.com/design/DAGOwnDkGsY/SxXRoBY796wFi_EVXQcVNQ/view?utlId=h4e15dc229e">Resume</a> <br>
+        - ⚡ Fun fact: *I once optimized a piece of code so efficiently that it made the system run faster than I could process the output! 😅* <br>
+        - 🎓 **Emerging Full-Stack Developer** | Focused on learning modern web technologies 🚀
+      </div>
+    </td>
+  </tr>
+</table>
 
-<div align="right">
-  - 🔭 I’m currently working on <a href="https://github.com/Monu01123/Minor_project">learning platform</a>
-
-- 🌱 I’m currently learning **Node.js, express.js**
-
-- 💬 Ask me about **React.js,Node.js,Express.js**
-
-- 📫 How to reach me **monumeena0112@gmail.com**
-
-- 📄 Know about my experiences <a href="https://www.canva.com/design/DAGOwnDkGsY/SxXRoBY796wFi_EVXQcVNQ/view?utlId=h4e15dc229e">Resume</a>
-
-- ⚡ Fun fact * I once optimized a piece of code so efficiently that it made the system run faster than I could process the output! 😅**
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
