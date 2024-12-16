@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td>
-      <div align="right">
+      <div align="left">
         - 🔭 I’m currently working on <a href="https://github.com/Monu01123/Minor_project">learning platform</a> <br>
         - 🌱 I’m currently learning **Node.js, express.js** <br>
         - 💬 Ask me about **React.js, Node.js, Express.js** <br>
