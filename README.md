@@ -4,7 +4,7 @@
 <h1 align="center">Hi 😍, I'm Monu Meena</h1>
 <h3 align="center">Passionate Full stack Developer 👨🏼‍🎓| Building Scalable Solutions | Open-Source Enthusiast | Always Learning</h3>
 <img align="right" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://tenor.com/en-GB/view/emocionado-gif-20245452)"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=monu01123&label=Profile%20views&color=0e75b6&style=flat" alt="monu01123" /> </p>
+<p align="left"> <img src="https://tenor.com/en-GB/view/wave-hello-hi-typing-gif-17598021" alt="monu01123" /> </p>
 - 🔭 I’m currently working on <a href="https://github.com/Monu01123/Minor_project">learning platform</a>
 
 - 🌱 I’m currently learning **Node.js, express.js**
