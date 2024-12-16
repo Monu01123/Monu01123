@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **monumeena0112@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/wcHYo](https://shorturl.at/wcHYo)
+- 📄 Know about my experiences <a href="https://www.canva.com/design/DAGOwnDkGsY/SxXRoBY796wFi_EVXQcVNQ/view?utlId=h4e15dc229e">Resume</a>
 
 - ⚡ Fun fact * I once optimized a piece of code so efficiently that it made the system run faster than I could process the output! 😅**
 
