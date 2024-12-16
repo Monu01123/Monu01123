@@ -3,7 +3,9 @@
 
 <h1 align="center">Hi 😍, I'm Monu Meena</h1>
 <h3 align="center">Passionate Full stack Developer 👨🏼‍🎓| Building Scalable Solutions | Open-Source Enthusiast | Always Learning</h3>
-<img align="right" width="400" src="https://pixabay.com/gifs/cartoon-3d-man-knight-laptop-629/"/>
+
+![cartoon-629](https://github.com/user-attachments/assets/55d4b549-d15a-4745-a5fe-bd6297b382f4)
+
 <p align="left"> <img src="https://tenor.com/en-GB/view/wave-hello-hi-typing-gif-17598021" alt="monu01123" /> </p>
 - 🔭 I’m currently working on <a href="https://github.com/Monu01123/Minor_project">learning platform</a>
 
