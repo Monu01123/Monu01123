@@ -4,8 +4,8 @@
 <h1 align="center">Hi 😍, I'm Monu Meena</h1>
 <h3 align="center">Passionate Full stack Developer 👨🏼‍🎓| Building Scalable Solutions | Open-Source Enthusiast | Always Learning</h3>
 
-<table>
-  <tr>
+<table style="border: none;">
+  <tr style="border: none;">
     <td style="border: none;">
       <div align="left">
         - 🔭 I’m currently working on <a href="https://github.com/Monu01123/Minor_project">learning platform</a> <br>
