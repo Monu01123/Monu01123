@@ -5,14 +5,14 @@
 <h3 align="center">Passionate Full stack Developer 👨🏼‍🎓| Building Scalable Solutions | Open-Source Enthusiast | Always Learning</h3>
 <br/>
 <br/>
- <img align="right" width="300" src="https://github.com/user-attachments/assets/16d2f4c7-edf8-4146-9872-be34710abc01" alt="coding-typing" width="300"> 
+ <img align="right" width="300" src="https://github.com/user-attachments/assets/16d2f4c7-edf8-4146-9872-be34710abc01" alt="coding-typing" width="170" height="250"> 
  <h4 width="400">
 - 🔭 I’m currently working on <a href="https://github.com/Monu01123/Minor_project">learning platform</a> <br>
 - 🌱 I’m currently learning **Node.js, express.js** <br>
 - 💬 Ask me about **React.js, Node.js, Express.js** <br>
 - 📫 How to reach me **monumeena0112@gmail.com** <br>
 - 📄 Know about my experiences <a href="https://www.canva.com/design/DAGOwnDkGsY/SxXRoBY796wFi_EVXQcVNQ/view?utlId=h4e15dc229e">Resume</a> <br>
-- 🎓 Emerging Full-Stack Developer | Focused on learning modern web technologies 🚀
+- 🎓 Emerging Full-Stack Developer | Focused on learning modern web technologies
  </h4>
 
 <h3 align="left">Connect with me:</h3>
