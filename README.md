@@ -7,10 +7,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/04d8a966-0e36-42ac-8e70-1855777264ed" alt="coding-typing" width="300">
-    </td>
-    <td>
-      <div align="right">
+      <div align="left">
         - 🔭 I’m currently working on <a href="https://github.com/Monu01123/Minor_project">learning platform</a> <br>
         - 🌱 I’m currently learning **Node.js, express.js** <br>
         - 💬 Ask me about **React.js, Node.js, Express.js** <br>
@@ -19,6 +16,9 @@
         - ⚡ Fun fact: *I once optimized a piece of code so efficiently that it made the system run faster than I could process the output! 😅* <br>
         - 🎓 **Emerging Full-Stack Developer** | Focused on learning modern web technologies 🚀
       </div>
+    </td>
+     <td>
+      <img src="https://github.com/user-attachments/assets/d3c5cfc2-757b-41c4-b880-5cd1f0595f2a" alt="coding-typing" width="300">
     </td>
   </tr>
 </table>
