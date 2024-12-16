@@ -5,8 +5,8 @@
 <h3 align="center">Passionate Full stack Developer 👨🏼‍🎓| Building Scalable Solutions | Open-Source Enthusiast | Always Learning</h3>
 
 
- <img align="right" src="https://github.com/user-attachments/assets/16d2f4c7-edf8-4146-9872-be34710abc01" alt="coding-typing" width="300">
-
+ <img align="right" width="300" src="https://github.com/user-attachments/assets/16d2f4c7-edf8-4146-9872-be34710abc01" alt="coding-typing" width="300">
+ <div width="400">
 - 🔭 I’m currently working on <a href="https://github.com/Monu01123/Minor_project">learning platform</a> <br>
 - 🌱 I’m currently learning **Node.js, express.js** <br>
 - 💬 Ask me about **React.js, Node.js, Express.js** <br>
@@ -14,6 +14,7 @@
 - 📄 Know about my experiences <a href="https://www.canva.com/design/DAGOwnDkGsY/SxXRoBY796wFi_EVXQcVNQ/view?utlId=h4e15dc229e">Resume</a> <br>
 - ⚡ Fun fact: *I once optimized a piece of code so efficiently that it made the system run faster than I could process the output! 😅* <br>
 - 🎓 **Emerging Full-Stack Developer** | Focused on learning modern web technologies 🚀
+ </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
