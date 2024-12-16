@@ -3,8 +3,9 @@
 
 <h1 align="center">Hi 😍, I'm Monu Meena</h1>
 <h3 align="center">Passionate Full stack Developer 👨🏼‍🎓| Building Scalable Solutions | Open-Source Enthusiast | Always Learning</h3>
- <img align="right" src="https://github.com/user-attachments/assets/d3c5cfc2-757b-41c4-b880-5cd1f0595f2a" alt="coding-typing" width="300">
 
+
+ <img align="right" src="https://github.com/user-attachments/assets/16d2f4c7-edf8-4146-9872-be34710abc01" alt="coding-typing" width="300">
 
 - 🔭 I’m currently working on <a href="https://github.com/Monu01123/Minor_project">learning platform</a> <br>
 - 🌱 I’m currently learning **Node.js, express.js** <br>
