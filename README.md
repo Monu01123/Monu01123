@@ -3,17 +3,17 @@
 
 <h1 align="center">Hi 😍, I'm Monu Meena</h1>
 <h3 align="center">Passionate Full stack Developer 👨🏼‍🎓| Building Scalable Solutions | Open-Source Enthusiast | Always Learning</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=monu01123&label=Profile%20views&color=0e75b6&style=flat" alt="monu01123" /> </p>
+<p align="left"> &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=monu01123&label=Profile%20views&color=0e75b6&style=flat" alt="monu01123" /> </p>
 <br/>
  <img align="right" width="300" src="https://github.com/user-attachments/assets/16d2f4c7-edf8-4146-9872-be34710abc01" alt="coding-typing" width="170" height="250"> 
- <h4 width="400">
-- 🔭 I’m currently working on <a href="https://github.com/Monu01123/Minor_project">learning platform</a> <br>
-- 🌱 I’m currently learning **Node.js, express.js** <br>
-- 💬 Ask me about **React.js, Node.js, Express.js** <br>
-- 📫 How to reach me **monumeena0112@gmail.com** <br>
-- 📄 Know about my experiences <a href="https://www.canva.com/design/DAGOwnDkGsY/SxXRoBY796wFi_EVXQcVNQ/view?utlId=h4e15dc229e">Resume</a> <br>
-- 🎓 Emerging Full-Stack Developer | Focused on learning modern web technologies
- </h4>
+ <ul width="400">
+<li>- 🔭 I’m currently working on <a href="https://github.com/Monu01123/Minor_project">learning platform</a> </li>
+<li>- 🌱 I’m currently learning **Node.js, express.js**</li> 
+<li>- 💬 Ask me about **React.js, Node.js, Express.js** </li>
+<li>- 📫 How to reach me **monumeena0112@gmail.com** </li>
+<li>- 📄 Know about my experiences <a href="https://www.canva.com/design/DAGOwnDkGsY/SxXRoBY796wFi_EVXQcVNQ/view?utlId=h4e15dc229e">Resume</a> </li>
+<li>- 🎓 Emerging Full-Stack Developer | Focused on learning modern web technologies</li>
+ </ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
