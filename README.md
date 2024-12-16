@@ -3,9 +3,6 @@
 <h3 align="center">Passionate Full stack Developer 👨🏼‍🎓| Building Scalable Solutions | Open-Source Enthusiast | Always Learning</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monu01123&label=Profile%20views&color=0e75b6&style=flat" alt="monu01123" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monu01123" alt="monu01123" /></a> </p>
-
 - 🔭 I’m currently working on [learning platform](https://github.com/Monu01123/Minor_project)
 
 - 🌱 I’m currently learning **Node.js, express.js**
