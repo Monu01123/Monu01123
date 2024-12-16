@@ -4,8 +4,9 @@
 <h1 align="center">Hi 😍, I'm Monu Meena</h1>
 <h3 align="center">Passionate Full stack Developer 👨🏼‍🎓| Building Scalable Solutions | Open-Source Enthusiast | Always Learning</h3>
 
-![cartoon-629](https://github.com/user-attachments/assets/55d4b549-d15a-4745-a5fe-bd6297b382f4)
-https://tenor.com/en-GB/view/coding-typing-big-brained-busy-sweating-gif-17808553
+![cartoon-62![coding-typing](https://github.com/user-attachments/assets/df02a35e-a210-47aa-9488-1930a57f781b)
+9](https://github.com/user-attachments/assets/55d4b549-d15a-4745-a5fe-bd6297b382f4)
+
 
 <p align="left"> <img src="https://tenor.com/en-GB/view/wave-hello-hi-typing-gif-17598021" alt="monu01123" /> </p>
 - 🔭 I’m currently working on <a href="https://github.com/Monu01123/Minor_project">learning platform</a>
