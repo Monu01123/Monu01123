@@ -16,6 +16,7 @@ I build practical web applications and enjoy improving the tools people use ever
 
 | Project | What it does |
 | --- | --- |
+| [HireIQ — Job Application Tracker](https://github.com/Monu01123/AppliTrack) | Tracks applications, matches resumes to roles with AI, and includes a browser extension for saving job listings. [Live demo](https://appli-track-seven.vercel.app/) |
 | [Resumind](https://github.com/Monu01123/Resumind) | AI-assisted resume analysis with skill matching and actionable feedback. [Live demo](https://resume-maker-pi-seven.vercel.app/) |
 | [Sentivibe](https://github.com/Monu01123/Sentivibe) | Analyzes YouTube comment sentiment and presents audience insights through a browser extension. |
 | [Nexus](https://github.com/Monu01123/Nexus) | Real-time messaging app with Socket.IO, JWT authentication, and image sharing. |
